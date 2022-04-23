@@ -1,0 +1,193 @@
+
+    [
+        {
+            "id": "9",
+            "slug": "accommodation",
+            "title": "Accommodation",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648033244_91d2b109d2f76e209fc7.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649937048_bd542e32039e23954a24.png",
+            "color": "#90daff",
+            "parent": {
+                "image": null,
+                "icon": null,
+                "color": "#3b9ee6"
+            }
+        },
+        {
+            "id": "2",
+            "slug": "attractions",
+            "title": "Attractions",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1647961283_4d24b5fabda255094187.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936944_280be9f7884060faac45.png",
+            "color": "#b80c0c",
+            "parent": {
+                "id": "6",
+                "slug": "see-do",
+                "title": "See & Do",
+                "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020662_9a960d9814d844fa3942.jpeg",
+                "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936952_a0c4e91807377acafda3.png",
+                "color": "#3745c7"
+            }
+        },
+        {
+            "id": "8",
+            "slug": "cafes",
+            "title": "Cafes",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648021499_dc46ad7463010cbfbe5c.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649937040_436c1f018d282b9dd0c6.png",
+            "color": "#8ee0aa",
+            "parent": {
+                "id": "3",
+                "slug": "eat-drink",
+                "title": "Eat & Drink",
+                "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020729_7754c55dfe737e1e9009.jpeg",
+                "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936968_131f3008fb485ed5dd04.png",
+                "color": "#0e8f0a"
+            }
+        },
+        {
+            "id": "3",
+            "slug": "eat-drink",
+            "title": "Eat & Drink",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020729_7754c55dfe737e1e9009.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936968_131f3008fb485ed5dd04.png",
+            "color": "#0e8f0a",
+            "parent": {
+                "image": null,
+                "icon": null,
+                "color": "#3b9ee6"
+            }
+        },
+        {
+            "id": "12",
+            "slug": "events-calendar",
+            "title": "Events Calendar",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648036053_2e4b63b02030edfbee1c.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649937090_6113707f4a558766225d.png",
+            "color": "#331b91",
+            "parent": {
+                "id": "11",
+                "slug": "whats-on",
+                "title": "What's On",
+                "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648035855_889faa7cae4dcebb1748.jpeg",
+                "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649937075_b6f31e2f02e6398258b4.png",
+                "color": "#047a71"
+            }
+        },
+        {
+            "id": "5",
+            "slug": "explore",
+            "title": "Explore",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020617_6f79a6ab22365e293c6d.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936999_88868418fb162cb49834.png",
+            "color": "#d1c004",
+            "parent": {
+                "image": null,
+                "icon": null,
+                "color": "#3b9ee6"
+            }
+        },
+        {
+            "id": "4",
+            "slug": "neighbourhood",
+            "title": "Neighbourhood",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1647961300_5a62d9818df0a0dac650.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936983_c3c71ba9cfbcb367c260.png",
+            "color": "#e3107d",
+            "parent": {
+                "id": "5",
+                "slug": "explore",
+                "title": "Explore",
+                "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020617_6f79a6ab22365e293c6d.jpeg",
+                "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936999_88868418fb162cb49834.png",
+                "color": "#d1c004"
+            }
+        },
+        {
+            "id": "7",
+            "slug": "restaurants",
+            "title": "Restaurants",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020955_d081a288fca0961b7238.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649937026_61ead0a833842e2bf228.png",
+            "color": "#e36666",
+            "parent": {
+                "id": "3",
+                "slug": "eat-drink",
+                "title": "Eat & Drink",
+                "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020729_7754c55dfe737e1e9009.jpeg",
+                "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936968_131f3008fb485ed5dd04.png",
+                "color": "#0e8f0a"
+            }
+        },
+        {
+            "id": "14",
+            "slug": "sample",
+            "title": "Sample",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1650537354_03abe3f6b475285bb961.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1650012550_4754f7c5c1dcc07dd940.png",
+            "color": "#ff0000",
+            "parent": {
+                "image": null,
+                "icon": null,
+                "color": "#3b9ee6"
+            }
+        },
+        {
+            "id": "6",
+            "slug": "see-do",
+            "title": "See & Do",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020662_9a960d9814d844fa3942.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936952_a0c4e91807377acafda3.png",
+            "color": "#3745c7",
+            "parent": {
+                "image": null,
+                "icon": null,
+                "color": "#3b9ee6"
+            }
+        },
+        {
+            "id": "10",
+            "slug": "shops-markets",
+            "title": "Shops & Markets",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648034976_1fb356185b03a524fac3.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649937061_f96c4e494725beb6e50a.png",
+            "color": "#ffabab",
+            "parent": {
+                "id": "6",
+                "slug": "see-do",
+                "title": "See & Do",
+                "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648020662_9a960d9814d844fa3942.jpeg",
+                "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649936952_a0c4e91807377acafda3.png",
+                "color": "#3745c7"
+            }
+        },
+        {
+            "id": "15",
+            "slug": "tea-shop",
+            "title": "Tea Shop",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1650658093_076bace80122a2729848.jpeg",
+            "icon": null,
+            "color": "#8ee0aa",
+            "parent": {
+                "id": "8",
+                "slug": "cafes",
+                "title": "Cafes",
+                "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648021499_dc46ad7463010cbfbe5c.jpeg",
+                "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649937040_436c1f018d282b9dd0c6.png",
+                "color": "#8ee0aa"
+            }
+        },
+        {
+            "id": "11",
+            "slug": "whats-on",
+            "title": "What's On",
+            "image": "https://leicester.digitaltouristguide.com/uploads/travel/category/1648035855_889faa7cae4dcebb1748.jpeg",
+            "icon": "https://leicester.digitaltouristguide.com/uploads/travel/category/1649937075_b6f31e2f02e6398258b4.png",
+            "color": "#047a71",
+            "parent": {
+                "image": null,
+                "icon": null,
+                "color": "#3b9ee6"
+            }
+        }
+    ]
