@@ -1,0 +1,38 @@
+{
+    "status": 200,
+    "result": [
+    {
+    "title": " İstanbul Merkez Ofis",
+    "phone": "0555 555 55 55"
+    
+},
+    {
+    "title": "Avrupa Bölge Müdürlüğü (Beylikdüzü)",
+    "phone": "0555 555 55 55"
+},
+    {
+    "title": "Ege Bölge Müdürlüğü",
+    "phone": "0555 555 55 55"
+},
+    {
+    "title": "Antalya Şubesi",
+    "phone": "0555 555 55 55"
+},
+    {
+    "title": "Kayseri Şubesi",
+    "phone": "0555 555 55 55"
+},
+    {
+    "title": "Trabzon Şubesi ",
+    "phone": "0555 555 55 55"
+},
+    {
+    "title": "Gaziantep Şubesi",
+    "phone": "0555 555 55 55"
+},
+    {
+    "title": "Erzurum Şubesi",
+    "phone": "0555 555 55 55"
+}
+    ]
+    }
