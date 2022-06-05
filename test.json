@@ -1,0 +1,20 @@
+{
+    "status": 200,
+    "result": [
+    {
+    "title": "Periskop 1.Sayı (Ocak-Şubat-Mart)",
+    "list_picture": "/uploads/1629980027_1264a48d9b8dcf141159.jpeg",
+    "file": "/uploads/1629980034_be8c67dabfd78a12306f.pdf"
+    },
+    {
+    "title": "Periskop 2.Sayı (Nisan-Mayıs-Haziran)",
+    "list_picture": "/uploads/1629980136_377125623ddfaf61ad3a.jpeg",
+    "file": "/uploads/1629980141_e0d15e22760cd5e52982.pdf"
+    },
+    {
+    "title": "Periskop 3.sayı (Temmuz-Ağustos-Eylül)",
+    "list_picture": "/uploads/1629980190_d466b2ae9a3995c32a2c.jpeg",
+    "file": "/uploads/1629980196_b9c7a41cace66669abfd.pdf"
+    }
+    ]
+    }
